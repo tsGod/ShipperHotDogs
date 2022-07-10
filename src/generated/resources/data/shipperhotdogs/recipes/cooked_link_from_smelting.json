@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "shipperhotdogs:raw_link"
+  },
+  "result": "shipperhotdogs:cooked_link",
+  "experience": 0.35,
+  "cookingtime": 200
+}

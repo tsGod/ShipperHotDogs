@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "ghg",
+    "ddd"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "h": {
+      "item": "shipperhotdogs:hot_dog"
+    }
+  },
+  "result": {
+    "item": "shipperhotdogs:shipper_hot_dog"
+  }
+}

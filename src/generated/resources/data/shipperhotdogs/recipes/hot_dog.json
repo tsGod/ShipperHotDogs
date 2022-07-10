@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shipperhotdogs:bun"
+    },
+    {
+      "item": "shipperhotdogs:cooked_link"
+    }
+  ],
+  "result": {
+    "item": "shipperhotdogs:hot_dog"
+  }
+}
